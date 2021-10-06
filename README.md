@@ -9,4 +9,4 @@ Jared Y. Lopez Gonzalez - jared.lopez@upr.edu
 
 José J. Vázquez Pérez - jose.vazquez38@upr.edu
 
-Ruth M. Huaman Allccahuaman 
+Ruth M. Huaman Allccahuaman - ruth.huaman@upr.edu
