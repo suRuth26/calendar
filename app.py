@@ -10,9 +10,7 @@ def hello_world():  # put application's code here
 def hello_world2():  # put application's code here
     return 'Hello World Nataly !'
 
-# @app.route('/AppParts/parts')
-# def partsRoute():
-#     return BaseParts().getAllParts()
+
 @app.route('/AppUser/User')
 def UserRoute():
     return BaseUser().getAllUser()
